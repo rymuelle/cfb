@@ -1,0 +1,3 @@
+[submodule "src/whole_history_rating"]
+	path = src/whole_history_rating
+	url = git@github.com:rymuelle/whole_history_rating.git
