@@ -20,12 +20,7 @@ Be sure to chose ```myCfbVenv``` kernel
 
 # Packages:
 ```
-python3 -m pip install ipykernel
-python3 -m pip install cfbd
-python3 -m pip install pandas
-python3 -m pip install numpy
-python3 -m pip install pytest
-python3 -m pip install matplotlib
+python3 -m pip install numpy scipy matplotlib ipython jupyter pandas sympy nose pytest cfbd ipykernel
 ```
 ## submodule:
 whole_history_rating
