@@ -24,6 +24,8 @@ python3 -m pip install ipykernel
 python3 -m pip install cfbd
 python3 -m pip install pandas
 python3 -m pip install numpy
- python3 -m pip install pytest
+python3 -m pip install pytest
+python3 -m pip install matplotlib
 ```
 ## submodule:
+whole_history_rating
