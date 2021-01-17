@@ -3,6 +3,7 @@ venv
 
 # ignore images
 *.png
+*.pdf
 
 # ignore ipynb checkpoints
 notebooks/.ipynb_checkpoints
