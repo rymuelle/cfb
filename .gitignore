@@ -17,6 +17,5 @@ notebooks/.ipynb_checkpoints
 # ignore __pycache__
 src/whole_history_rating/whr/__pycache__
 
-
 # ignore csvs
 *.csv
