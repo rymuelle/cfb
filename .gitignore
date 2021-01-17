@@ -1,0 +1,17 @@
+# ignore virtual envirometn
+venv
+
+# ignore images
+*.png
+
+# ignore ipynb checkpoints
+notebooks/.ipynb_checkpoints
+
+#igore pickles
+*.pkl
+
+#igore vscode
+.vscode
+
+# ignore __pycache__
+src/whole_history_rating/whr/__pycache__
