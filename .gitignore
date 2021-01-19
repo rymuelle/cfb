@@ -19,3 +19,6 @@ src/whole_history_rating/whr/__pycache__
 
 # ignore csvs
 *.csv
+
+#igore documentation for latex files
+documentation
