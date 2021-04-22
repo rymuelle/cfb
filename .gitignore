@@ -22,3 +22,6 @@ src/whole_history_rating/whr/__pycache__
 
 #igore documentation for latex files
 documentation
+
+#ignore api key file
+cfb_api_key.py
